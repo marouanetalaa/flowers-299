@@ -1,0 +1,4 @@
+une base de données ( meme couleur)
+test,   train,  val
+matrice confusion
+
